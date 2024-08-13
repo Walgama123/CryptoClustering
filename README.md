@@ -1,8 +1,8 @@
 
 <h1 align="center">Unsupervised Learning with Python </h1>
-<h3 align="center">predict if cryptocurrencies are affected by 24-hour or 7-day price changes</h1>
+<h3 align="center">Predict if cryptocurrencies are affected by 24-hour or 7-day price changes</h1>
 <div align="center">
-	<img src="images/CurrencyIcon.png">
+	<img src="Images/CurrencyIcon.png">
 </div>
 
 
