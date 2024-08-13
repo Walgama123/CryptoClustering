@@ -26,15 +26,15 @@ By applying clustering algorithms and other unsupervised learning methods, we ca
 - Prepare the Data
   - Use the StandardScaler() module from scikit-learn to normalize the data from the CSV file.
 - Find the Best Value for k Using the original scaled dataFrame.
-  - [Elbow curve before the optimization](images/elobow_before_Optimization.png)
+  - [Elbow curve before the optimization](images/elbow_before_Optimization.png)
 - Clusters Cryptocurrencies with K-means Using the original scaled Data.
   - [Scatter plot chart for the original data](images/original_scatter.png) 
 - Optimize Clusters with Principal Component Analysis.
-  - [Elbow after the optimization data](Images/elobow_after_Optimization.png)  
+  - [Elbow after the optimization data](Images/elbow_after_Optimization.png)  
 - Cluster Cryptocurrencies with K-means Using the PCA Data.
   - [Clusters Cryptocurrencies with K-means Using the optimized scaled Data](Images/Optimization_scatter.png)
 - Visual comparison of the graphs before and after the optimization. 
-  - [Elbow graphs comparison](Images/elobowComparison.png)
+  - [Elbow graphs comparison](Images/elbowComparison.png)
   - [Scatter plot graphs comparison](Images/scatterComparison.png)
 
 ## Summary.
